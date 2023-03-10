@@ -1,0 +1,22 @@
+{
+  "name": "discord-js-v14-translate-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RyanChan#0204 (660649920013008926)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+    "glob": "^8.0.3",
+    "iso-3166-1": "^2.1.1",
+    "iso-639-1": "^2.1.15",
+    "mongoose": "^6.7.3",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "translate-platforms": "^0.0.7"
+  }
+}

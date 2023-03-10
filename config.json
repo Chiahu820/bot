@@ -1,0 +1,38 @@
+{
+    "prefix": "b!",
+    "activity": "/help | OuO 編程社群",
+    "status": "idle",
+    "present": "PLAYING",
+  
+    "developers": ["660649920013008926"],
+  
+    "color": {
+      "main": "#5865F2",
+      "error": "#ED4245",
+      "success": "#57F287",
+      "loading": "#FEE75C",
+  
+      "red": "#ff5a48",
+      "orange": "#ffca4d",
+      "yellow": "#ffcc5c",
+      "green": "#74ff89",
+      "purple": "#7d5eff",
+      "pink": "#ff88d2",
+      "grey": "#2f3136",
+      "white": "#ffffff"
+    },
+  
+    "icon": {
+      "success": "https://cdn.discordapp.com/attachments/953955636541014046/995250241248960512/success.gif",
+      "error": "https://cdn.discordapp.com/emojis/980345366362869790.webp",
+      "loading": "https://cdn.discordapp.com/emojis/975343827315462184.gif"
+    },
+  
+    "footer": {
+      "text": "BackUp Bot ∙ 保護你的 Discord 伺服器",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1803/1803613.png"
+    },
+
+    "flag": true
+  }
+  
